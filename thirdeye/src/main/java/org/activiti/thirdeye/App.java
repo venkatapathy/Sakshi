@@ -1,4 +1,4 @@
-package org.activiti.thirdeye.thirdeye;
+package org.activiti.thirdeye;
 
 /**
  * Hello world!
