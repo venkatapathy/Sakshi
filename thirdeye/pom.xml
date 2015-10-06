@@ -38,10 +38,5 @@
 	
   </dependencies>
      
-  <parent>
-  	<groupId>org.activiti</groupId>
-  	<artifactId>activiti-root</artifactId>
-  	<version>5.18.1-SNAPSHOT</version>
-  	<relativePath>../../../Activiti</relativePath>
-  </parent>
+
 </project>
